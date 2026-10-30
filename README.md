@@ -146,11 +146,14 @@ These features may be explored in Project 2.
 
 ## Deployment
 
-The application will be deployed using
+The application is publicly deployed using
 Streamlit Community Cloud.
 
-Live application URL: To be added after deployment.
+Live Application:
+https://ymsuhenn7pti3pfrqgakzn.streamlit.app/
 
+GitHub Repository:
+https://github.com/cyrusAv/water-quality-dashboard
 ## Author
 
 Cyrus Avendano
